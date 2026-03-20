@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br><br>- 💻 Turning ideas into real-world web applications  <br>- ⚙️ Skilled in React, Node.js, MongoDB & modern web tools  <br>- 🔐 Exploring Cybersecurity & Blockchain technologies  <br>- 📈 Focused on building scalable and practical projects  <br>- 🤝 Always open to collaboration and learning opportunities  <br>- ⚡ I build, break, learn, and improve — repeat 🔁
+# 💫 About Me:<br><br>- 💻 Turning ideas into real-world web applications  <br>- ⚙️ Skilled in React, Node.js, MongoDB & modern web tools  <br>- 🔐 Exploring Cybersecurity & Blockchain technologies  <br>- 📈 Focused on building scalable and practical projects  <br>- 🤝 Always open to collaboration and learning opportunities  <br>- ⚡ I build, break, learn, and improve — repeat 🔁
 
 
 ## 🌐 Socials:
