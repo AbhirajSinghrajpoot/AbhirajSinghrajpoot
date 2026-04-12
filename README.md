@@ -47,11 +47,11 @@ I'm a 3rd-year Computer Science Engineering student specializing in **Full-Stack
 
 ### 🚀 Featured Projects
 
-🔗 **[AI Malware Detection System](https://github.com/AbhirajSinghrajpoot/AI-Malware-Detection)** *(AIMinor Project)*
+🔗 **[AI-Based Malware Detection System](https://github.com/AbhirajSinghrajpoot/Ai-Based_Malware_Detection)** *(AIMinor Project)*
 Developed a robust minor project utilizing machine learning for threat detection by extracting malicious software patterns proactively.
 * **Tech:** ML, Python, Cybersecurity protocols.
 
-🔗 **[Ransomware Early Warning System](https://github.com/AbhirajSinghrajpoot/Ransomware-Early-Warning)**
+🔗 **[EditingAgency](https://github.com/AbhirajSinghrajpoot/EditingAgency.git)**
 Designed an Android-based system utilizing behavior-based monitoring to alert users of potential ransomware activities.
 * **Tech:** Android Dev, System Monitoring, Java.
 
@@ -88,7 +88,8 @@ roadmap_2026 = {
 ```
 ### 💼 What I'm Building & Achievements
 **Development Focus:**
- * ✅ **Completed:** Android App Development Virtual Internship at CodSoft.
+ * ✅ **Completed:** Web Development Virtual Internship at CodSoft.
+ * 
  * 👨‍💻 **Java & DSA:** Consistently building my fundamental logic and problem-solving skills folder by folder (Arrays, Trees, Graphs, DP).
  * 🛡️ **Security:** Researching and documenting malware behaviors for academic integrations.
 ### 📫 Let's Connect
