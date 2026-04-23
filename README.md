@@ -53,7 +53,7 @@ Developed a robust minor project utilizing machine learning for threat detection
 
 🔗 **[EditingAgency](https://github.com/AbhirajSinghrajpoot/EditingAgency.git)**
 Designed an Android-based system utilizing behavior-based monitoring to alert users of potential ransomware activities.
-* **Tech:** Android Dev, System Monitoring, Java.
+* **Tech:** Html, CSS, Javascript.
 
 🔗 **[Wizards Portfolio](https://github.com/AbhirajSinghrajpoot/wizards-portfolio)**
 My personal portfolio site built from scratch to showcase my work.
