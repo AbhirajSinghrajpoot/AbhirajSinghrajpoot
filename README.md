@@ -57,7 +57,7 @@ Designed an Android-based system utilizing behavior-based monitoring to alert us
 
 🔗 **[Wizards Portfolio](https://github.com/AbhirajSinghrajpoot/wizards-portfolio)**
 My personal portfolio site built from scratch to showcase my work.
-* **Tech:** React, Vercel, Node.js.
+* **Tech:** Html, CSS, Javascript, Vercel.
 
 ---
 
