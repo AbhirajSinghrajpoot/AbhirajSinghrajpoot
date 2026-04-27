@@ -47,7 +47,7 @@ I'm a 3rd-year Computer Science Engineering student specializing in **Full-Stack
 
 ### 🚀 Featured Projects
 
-🔗 **[AI-Based Malware Detection System](https://github.com/AbhirajSinghrajpoot/Ai-Based_Malware_Detector.git)** *(AIMinor Project)*
+🔗 **[AI-Based Malware Detection System](https://github.com/AbhirajSinghrajpoot/Ai-Based_Malware_Detector.git)** *(AI Minor Project)*
 Developed a robust minor project utilizing machine learning for threat detection by extracting malicious software patterns proactively.
 * **Tech:** ML, Python, Cybersecurity protocols.
 
