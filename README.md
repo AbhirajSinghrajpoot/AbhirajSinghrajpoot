@@ -89,7 +89,6 @@ roadmap_2026 = {
 ### 💼 What I'm Building & Achievements
 **Development Focus:**
  * ✅ **Completed:** Web Development Virtual Internship at CodSoft.
- * 
  * 👨‍💻 **Java & DSA:** Consistently building my fundamental logic and problem-solving skills folder by folder (Arrays, Trees, Graphs, DP).
  * 🛡️ **Security:** Researching and documenting malware behaviors for academic integrations.
 ### 📫 Let's Connect
