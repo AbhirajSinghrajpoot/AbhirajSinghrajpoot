@@ -44,7 +44,6 @@ I'm a 3rd-year Computer Science Engineering student specializing in **Full-Stack
 ## 🚀 Featured Projects
 
 🔗 [NextHire](https://github.com/AbhirajSinghrajpoot/ai-career-assistant)
-
 Developed an AI-powered recruitment platform that allows users to create job listings, upload resumes, and leverage AI to analyze, score, and match candidates against job requirements.
 
 - **Tech:** React, React Router, Puter.js, Tailwind CSS, AI Integration
