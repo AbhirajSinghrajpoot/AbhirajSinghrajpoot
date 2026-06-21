@@ -45,20 +45,29 @@ I'm a 3rd-year Computer Science Engineering student specializing in **Full-Stack
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-🔗 **[AI-Based Malware Detection System](https://github.com/AbhirajSinghrajpoot/Ai-Based_Malware_Detector.git)** *(AI Minor Project)*
-Developed a robust minor project utilizing machine learning for threat detection by extracting malicious software patterns proactively.
-* **Tech:** ML, Python, Cybersecurity protocols.
+🔗 [NextHire](https://github.com/AbhirajSinghrajpoot/ai-career-assistant)
 
-🔗 **[EditingAgency](https://github.com/AbhirajSinghrajpoot/EditingAgency.git)**
-Designed an Android-based system utilizing behavior-based monitoring to alert users of potential ransomware activities.
-* **Tech:** Html, CSS, Javascript, Vercel.
+Developed an AI-powered recruitment platform that allows users to create job listings, upload resumes, and leverage AI to analyze, score, and match candidates against job requirements.
 
-🔗 **[Wizards Portfolio](https://github.com/AbhirajSinghrajpoot/wizards-portfolio)**
-My personal portfolio site built from scratch to showcase my work.
-* **Tech:** Html, CSS, Javascript, Vercel.
+- **Tech:** React, React Router, Puter.js, Tailwind CSS, AI Integration
 
+
+🔗 [Get Me A Chai](https://github.com/AbhirajSinghrajpoot/Get-me-a-Chai)
+Developed a full-stack donation platform inspired by Buy Me a Coffee, enabling secure online contributions with seamless payment integration and personalized creator pages.
+
+- **Tech:** Next.js, React, Tailwind CSS, MongoDB, Razorpay, NextAuth.js
+
+🔗 [Personal Finance Tracker](https://github.com/AbhirajSinghrajpoot/Ai-Finance)
+Engineered an intelligent finance tracking application featuring expense management, AI-driven insights, budget monitoring, and automated financial reports.
+
+- **Tech:** Next.js, Prisma, Supabase, Clerk, Grok API, Resend, Arcjet, Tailwind CSS
+
+🔗 [EditingAgency](https://github.com/AbhirajSinghrajpoot/EditingAgency)
+Developed a responsive video portfolio website for a creative editing agency, showcasing categorized video content with an engaging user interface and optimized user experience.
+
+- **Tech:** HTML, CSS, JavaScript, Vercel
 ---
 
 ### 🎯 Current Roadmap (2026)
